@@ -1,0 +1,47 @@
+﻿Name,PartyAffiliation,StateOfBirth,Term,AgeAtInauguration,PopularVote,MarginOfVictory,PopularVoteWinner,Height
+Washington,Federalist,VA,1789-97,57,,,Washington,73.5
+Adams,Federalist,MA,1797-1801,61,,,Adams,67
+Jefferson,Democratic-Republican,VA,1801-09,57,,,Jefferson,74.5
+Madison,Democratic-Republican,VA,1809-17,57,,,Madison,64
+Monroe,Democratic-Republican,VA,1817-25,58,,,Monroe,72
+John Quincy Adams,Democratic-Republican,MA,1825-29,57,30.9,-10.4,Andrew Jackson,67.5
+Jackson,Democrat,SC,1829-37,61,55.9,12.3,Jackson,73
+Van Buren,Democrat,NY,1837-41,54,50.8,14.2,Van Buren,66
+Wm Henry Harrison,Whig,VA,1841,68,52.9,6.1,Wm Henry Harrison,68
+Tyler,Whig,VA,1841-45,51,,,Tyler,72
+Polk,Democrat,NC,1845-49,49,49.5,1.45,Polk,68
+Taylor,Whig,VA,1849-50,64,47.3,4.8,Taylor,68
+Fillmore,Whig,NY,1850-53,50,,,Fillmore,69
+Pierce,Democrat,NH,1853-57,48,50.8,7,Pierce,70
+Buchanan,Democrat,PA,1857-61,65,45.3,12.2,Buchanan,72
+Lincoln,Republican,KY,1861-65,52,39.7,10.1,Lincoln,76
+Andrew Johnson,Union,NC,1865-69,56,,,Andrew Johnson,70
+Grant,Republican,OH,1869-77,46,52.7,5.3,Grant,68
+Hayes,Republican,OH,1877-81,54,47.9,-3,Samuel Tilden,68.5
+Garfield,Republican,OH,1881,49,48.3,0.09,Garfield,72
+Arthur,Republican,VT,1881-85,50,,,Arthur,72
+Cleveland,Democrat,NJ,1885-89,47,48.9,0.57,Cleveland,71
+Benjamin Harrison,Republican,OH,1889-93,55,47.8,-0.83,Grover Cleveland,66
+Cleveland,Democrat,NJ,1893-97,55,46,3,Cleveland,71
+McKinley,Republican,OH,1897-1901,54,51,4.3,McKinley,67
+Teddy Roosevelt,Republican,NY,1901-09,42,56.4,18.8,Teddy Roosevelt,70
+Taft,Republican,OH,1909-13,51,51.6,8.5,Taft,71.5
+Wilson,Democrat,VA,1913-21,56,41.8,14.4,Wilson,71
+Harding,Republican,OH,1921-23,55,60.3,26.2,Harding,72
+Coolidge,Republican,VT,1923-29,51,54,25.2,Coolidge,70
+Hoover,Republican,IA,1929-33,54,58.2,17.4,Hoover,71.5
+Franklin Roosevelt,Democrat,NY,1933-1945,51,57.4,17.8,Franklin Roosevelt,74
+Truman,Democrat,MO,1945-53,60,49.6,4.5,Truman,69
+Eisenhower,Republican,TX,1953-1961,62,55.2,10.9,Eisenhower,70.5
+Kennedy,Democrat,MA,1961-63,43,49.7,0.17,Kennedy,72
+LB Johnson,Democrat,TX,1963-69,55,61.1,22.6,LB Johnson,76
+Nixon,Republican,CA,1969-74,56,43.4,0.7,Nixon,71.5
+Ford,Republican,NE,1974-77,61,,,Ford,72
+Carter,Democrat,GA,1977-81,52,50.1,2.1,Carter,69.5
+Reagan,Republican,IL,1981-89,69,50.8,9.7,Reagan,73
+GHW Bush,Republican,MA,1989-93,64,53.4,7.7,GHW Bush,74
+Clinton,Democrat,AR,1993-2001,46,43,5.6,Clinton,74
+GW Bush,Republican,CO,2001-2009,54,47.9,-0.5,Al Gore,71.5
+Obama,Democrat,HA,2009-2017,47,52.9,7.3,Obama,73
+Trump,Republican,NY,2017-2021,70,46.1,-2.1,Clinton,75
+Biden,Democrat,PA,2021-Present,78,51.3,1.3,Biden,72
